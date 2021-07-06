@@ -4,7 +4,7 @@ Greetings! I'm Camilla Barros and I'm mostly a librarian, but sometimes I'm a de
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabarros3&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabarros3)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabarros3&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabarros3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
