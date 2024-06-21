@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Greetings! I'm <strong>Camilla Barros</strong> and oringinaly I'm a librarian, but now I'm studying to become a dev too. If you're pay attention you will know that I'm in love with Front-End. Let's rock and code :metal:.
+Greetings! I'm <strong>Camilla Barros</strong> and oringinaly I'm a librarian, but now I'm studying to become a dev too. If you're pay attention you will know that I'm in love with Front-End. Please feel free to connect with me and contribute in my projects! Let's rock and code :metal:.
 </p>
 
 <p align="left">
-  💌 Contato:
+  💌 Contact:
   <p><a href="https://www.linkedin.com/in/camillabarros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></p>
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  🦄 Languages: 
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ Greetings! I'm <strong>Camilla Barros</strong> and oringinaly I'm a librarian, b
 
 
 <p align="left">
-  💼 Frameworks e bibliotecas: 
+  💼 Frameworks and libraries: 
   <p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
