@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Greetings! I'm <strong>Camilla Barros</strong> and oringinaly I'm a librarian, but now I'm studying to become a dev too. If you're pay attention you will know that I'm in love with Front-End. Please feel free to connect with me and contribute in my projects! Let's rock and code :metal:.
+Hey there! I'm Camilla Barros. Originally a librarian, I'm now a Front-End developer with a passion for creating engaging and dynamic web experiences. I love collaborating on projects and exploring new technologies. Feel free to connect and contribute—let’s rock and code! :metal:
 </p>
 
 <p align="left">
